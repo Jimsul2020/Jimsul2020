@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Jimsul2020
-- 👀 I’m interested in php, React, Laravel, UI/UX
-- 🌱 I’m currently learning php & react
-- 💞️ I’m looking to collaborate on any php project
-- 📫 How to reach me ...
+- 👀 I’m a Software Developer, Stacks #Laravel #MERN, mysq, postgresql, MongoDB
 
 <!---
 Jimsul2020/Jimsul2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
